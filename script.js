@@ -4,7 +4,7 @@ const totalImages = 8; // 总图片数量
 const imageList = [];
 
 for (let i = 1; i <= totalImages; i++) {
-  imageList.push(`img/img${i}.jpg`);
+  imageList.push(`img/img${i}.png`);
 }
 
 let currentIndex = 0;
